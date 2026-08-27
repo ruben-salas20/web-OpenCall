@@ -403,7 +403,7 @@ export function App() {
           </Reveal>
           <Reveal className="download-aside" delay={0.12}>
             <div className="download-aside-mark"><Logo compact /></div>
-            <p>Un fork personal, publicado por si a alguien le sirve.</p>
+            <p>Un fork hecho para mis clases. Publicado porque funciona.</p>
             <a href={repositoryUrl} target="_blank" rel="noreferrer">ruben-salas20 / OpenCall.md <ArrowUpRight size={14} aria-hidden="true" /></a>
           </Reveal>
         </section>
