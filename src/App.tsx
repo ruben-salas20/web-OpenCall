@@ -21,7 +21,7 @@ import {
 } from "lucide-react";
 
 // Update only this line when publishing a new release.
-const releaseVersion = "0.2.1";
+const releaseVersion = "0.2.2";
 const downloadUrl = `https://github.com/ruben-salas20/OpenCall.md/releases/download/v${releaseVersion}/OpenCall.md-Setup-${releaseVersion}.exe`;
 const repositoryUrl = "https://github.com/ruben-salas20/OpenCall.md";
 
